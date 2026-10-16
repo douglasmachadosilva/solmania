@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solmania.com.br/sitemap.xml
